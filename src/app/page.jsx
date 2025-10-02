@@ -1,10 +1,10 @@
 
-import Footer from "./components/Footer";
-import Hero from "./components/Hero";
-import Details from "./components/Details";
-import ServiceInfo from "./components/ServiceInfo";
-import ServicesList from "./components/ServicesList";
-import PricingSection from "./components/Pricing";
+import Footer from "./components/Footer.jsx";
+import Hero from "./components/Hero.jsx";
+import Details from "./components/Details.jsx";
+import ServiceInfo from "./components/ServiceInfo.jsx";
+import ServicesList from "./components/ServicesList.jsx";
+import PricingSection from "./components/Pricing.jsx";
 
 
 export default function Home() {
