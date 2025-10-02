@@ -44,7 +44,7 @@ export default function ServiceInfo() {
           </div>
           <h3 className="text-lg md:text-xl font-semibold text-blue-900">Payment Options</h3>
           <p className="text-gray-700 mt-2 text-sm md:text-base">
-            We accept cash, credit/debit cards, and major digital wallets for your convenience.
+            We accept cash, debit cards, and major digital wallets for your convenience.
           </p>
         </div>
       </div>
