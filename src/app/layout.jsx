@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 
 export const metadata = {
   title: "LR Mobile Notary",
-  description: "Mobile notary services in Phoenix, AZ – Wills, Loan Signings, and more.",
+  description: "Mobile notary services in Phoenix, AZ - Wills, Loan Signings, and more.",
   icons: {
     icon: "/LRMobileNotaryLogo.png"
   }
